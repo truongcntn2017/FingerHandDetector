@@ -18,15 +18,26 @@
 ## How to run it?
 ### Step 1: Clone git
 
+
+```python
 !git clone https://github.com/truongcntn2017/FingerHandDetector.git
+```
 
 
 ### Step 2: Source Environment
+```python
 cd FingerHandDetector
-source MyEnv/bin/activate
+```
 
+```python
+source MyEnv/bin/activate
+```
 ## Step 3: Run 
+
+
+```python
 python3 new.py
+```
 
 - run it in python
 - press `'b'` to capture the background model (Remember to move your hand out of the blue rectangle)
